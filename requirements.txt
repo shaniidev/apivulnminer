@@ -1,0 +1,13 @@
+httpx>=0.25.0
+rich>=13.0.0
+asyncio-throttle>=1.0.2
+aiofiles>=23.0.0
+pydantic>=2.0.0
+click>=8.1.0
+colorama>=0.4.6
+tqdm>=4.65.0
+python-dateutil>=2.8.2
+urllib3>=2.0.0
+certifi>=2023.0.0
+charset-normalizer>=3.0.0
+idna>=3.4 

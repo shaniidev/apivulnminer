@@ -1,0 +1,12 @@
+include README.md
+include LICENSE
+include requirements.txt
+include install.sh
+include PROJECT_REPORT.md
+recursive-include core *.py
+recursive-include utils *.py
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .git*
+global-exclude *.log
+global-exclude *.tmp 
