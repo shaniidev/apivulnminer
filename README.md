@@ -8,6 +8,12 @@
 
 ![APIVulnMiner Screenshot](https://raw.githubusercontent.com/shaniidev/apivulnminer/refs/heads/master/examples/1.PNG)
 
+![APIVulnMiner Screenshot 2](https://raw.githubusercontent.com/shaniidev/apivulnminer/refs/heads/master/examples/2.PNG)
+![APIVulnMiner Screenshot 3](https://raw.githubusercontent.com/shaniidev/apivulnminer/refs/heads/master/examples/3.PNG)
+![APIVulnMiner Screenshot 4](https://raw.githubusercontent.com/shaniidev/apivulnminer/refs/heads/master/examples/4.PNG)
+![APIVulnMiner Screenshot 5](https://raw.githubusercontent.com/shaniidev/apivulnminer/refs/heads/master/examples/5.PNG)
+![APIVulnMiner Screenshot 6](https://raw.githubusercontent.com/shaniidev/apivulnminer/refs/heads/master/examples/6.PNG)
+
 ## 🚀 Features
 
 ### 🔍 **Smart Endpoint Discovery**
